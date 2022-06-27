@@ -12,3 +12,17 @@ The content assumes you're writing Ruby code but is otherwise text editor agnost
 
 Sabrina is a senior Ruby on Rails engineer who recently moved to Atlantic Canada and enjoys sewing, cycling, and gardening.
 You can reach them at @deusmxsabrina on twitter/instagram/tiktok or email hi@deusmxsabrina.dev to talk automating workflows or ask any questions!
+
+## References
+
+[A course about automation by Avdi Grimm](https://graceful.dev/courses/acapa/)
+
+[Pandoc Manual](https://pandoc.org/MANUAL.html)
+
+[Guard gem repo](https://github.com/guard/guard)
+
+[Guard shell gem repo](https://github.com/guard/guard-shell)
+
+[Ruby starter template](https://github.com/sabrinagannon/ruby-starter)
+
+[Inline gem loading tweet by @mateusrich](https://twitter.com/matheusrich/status/1536429683591585792)
